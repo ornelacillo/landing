@@ -1,0 +1,22 @@
+.btn-blue{
+	background-color: #0177fd;
+	padding: 10px 20px;
+	border-radius: 4px;
+	color: white;
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-green{
+	background-color: green;
+	padding: 10px 17px;
+	border-radius: 50%;
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+-btn-green:hover{
+	background-color: red;
+	transition: 0.3s;
+}
